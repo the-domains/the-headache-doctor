@@ -1,14 +1,26 @@
+color:
+  saturation: 0.9921289731282741
+  brandStrength: 0.3967040679417551
+  rhythmicContrast: 0.2187235227320343
+  brandColors:
+    - '#E6E2AF'
+    - '#A7A37E'
+    - '#EFECCA'
+    - '#046380'
+    - '#002F2F'
+  lightness: 0.6490835647564381
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 layout_spectrum: 0.8501842590048909
 typography_spectrum: 0.6694541773758829
-color:
-  brandStrength: 0.39670406794175506
-  lightness: 0.6490835647564381
-  saturation: 0.9921289731282741
-  rhythmicContrast: 0.21872352273203433
-  brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
 name: The Headache Doctor
