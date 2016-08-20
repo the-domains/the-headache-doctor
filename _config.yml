@@ -1,3 +1,4 @@
+typography_spectrum: 0.6694541773758829
 color:
   saturation: 0.9921289731282741
   brandStrength: 0.3967040679417551
@@ -9,6 +10,8 @@ color:
     - '#046380'
     - '#002F2F'
   lightness: 0.6490835647564381
+layout_spectrum: 0.8501842590048909
+name: The Headache Doctor
 collections:
   - index:
       path: /
@@ -21,6 +24,4 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-layout_spectrum: 0.8501842590048909
-typography_spectrum: 0.6694541773758829
-name: The Headache Doctor
+description: Getting rid of the reason for your headaches.
