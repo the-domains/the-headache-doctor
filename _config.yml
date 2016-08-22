@@ -24,6 +24,9 @@ navigation:
   - name: 'Jason Sykes, Doctor of Chiropractic'
     id: c824c8f4-3637-40d5-a20d-d70784b4ba41
     type: content
+  - name: Advanced Spinal Analysis.
+    id: 24d5d031-e537-4782-87af-a7a5322e7b7d
+    type: content
 collections:
   - index:
       path: /
