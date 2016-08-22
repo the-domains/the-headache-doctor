@@ -1,20 +1,18 @@
 ---
 title: Headaches.
-datePublished: '2016-08-21T23:16:38.991Z'
-dateModified: '2016-08-17T12:45:42.512Z'
+datePublished: '2016-08-21T23:18:49.929Z'
+dateModified: '2016-08-21T23:18:49.341Z'
 author:
   - name: Chiswick Chiropractic Clinic
     url: 'https://www.youtube.com/channel/UCL99IDL8n3VMGKP2X6L3ulg'
     avatar: {}
-isBasedOnUrl: 'https://youtu.be/1Xf-IJT8Z9Q'
 description: 'Jason Sykes, Chiropractor, Discussing headaches.'
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-08-21-headaches.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: headaches/index.html
 _type: MediaObject
 
 ---
