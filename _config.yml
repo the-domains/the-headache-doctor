@@ -21,6 +21,9 @@ navigation:
   - name: The clinic waiting room.
     id: b8e07f00-d9aa-47b3-8a6e-b12ee92a8d4d
     type: content
+  - name: 'Jason Sykes, Doctor of Chiropractic'
+    id: c824c8f4-3637-40d5-a20d-d70784b4ba41
+    type: content
 collections:
   - index:
       path: /
