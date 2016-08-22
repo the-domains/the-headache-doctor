@@ -18,6 +18,9 @@ navigation:
   - name: Jason Sykes discussing headaches.
     id: ada7266f-e9b3-4c96-9a8b-096ecd078fbb
     type: content
+  - name: The clinic waiting room.
+    id: b8e07f00-d9aa-47b3-8a6e-b12ee92a8d4d
+    type: content
 collections:
   - index:
       path: /
