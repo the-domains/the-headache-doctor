@@ -11,6 +11,8 @@ color:
     - '#002F2F'
   lightness: 0.6490835647564381
 layout_spectrum: 0.8501842590048909
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/3c5727ac-83eb-4cb4-a304-c11a956d3185.jpg
 name: The Headache Doctor
 collections:
   - index:
@@ -24,5 +26,5 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-title: "Jason Sykes BSc, DC \_"
+title: " \_Treating the cause of your headaches"
 description: 'Getting rid of the reason for your headaches, without medications.'
