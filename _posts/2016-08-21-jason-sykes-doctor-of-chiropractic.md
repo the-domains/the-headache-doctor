@@ -7,18 +7,17 @@ description: >-
   underlying cause of your headaches, which is usually a structural problem in
   the cervical spine (neck), rather than only trying to block pain pathways with
   strong medications. 
-dateModified: '2016-08-20T16:43:26.638Z'
-datePublished: '2016-08-21T23:16:55.166Z'
+dateModified: '2016-08-21T23:20:49.755Z'
+datePublished: '2016-08-21T23:20:50.257Z'
 title: 'Jason Sykes, Doctor of Chiropractic'
 author: []
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-08-21-jason-sykes-doctor-of-chiropractic.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+hasPage: true
+starred: false
+url: jason-sykes-doctor-of-chiropractic/index.html
+_type: Blurb
 
 ---
 ![Jason Sykes, Doctor of Chiropractic (USA)](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b2070d57-83b6-440c-bb8d-2e42cd5d4a21.jpg)
